@@ -1,0 +1,17 @@
+body{ background-color: silver;
+	}
+
+h1 {color: white; 
+   }
+
+h2 {color: grey;
+   }
+a  {color: gold;}
+
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+	width: 9px solid white;
+	background color: white;
+
+}
