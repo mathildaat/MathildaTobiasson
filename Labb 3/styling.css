@@ -1,0 +1,38 @@
+body{ background-color: white;
+	}
+img {width: 200px; 
+	float: ;}
+
+h1 {color: black;}
+h3 {color: grey;}
+
+
+fieldset{
+
+		border-radius:5px;
+		padding:40px;
+		width:200px;
+		float: left;
+}
+fieldset{ 	width: 30%;
+	height: 430px;
+	background-color: azure;
+	float: left;
+	margin: 30px;
+	text-align: center; }
+
+footer {
+	padding: 20px;
+	text-align: center;
+	background-color: azure;
+	clear: both;
+
+
+}
+
+#handske{
+		width: 100px; 
+		float: left;
+
+
+}

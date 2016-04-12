@@ -1,8 +1,10 @@
 body{ background-color: silver;
 	}
 
-h1 {color: white; 
+h1 {color: black; 
    }
+article {color: black;
+        }
 
 h2 {color: grey;
    }
@@ -15,3 +17,31 @@ table, th, td {
 	background color: white;
 
 }
+
+aside { float: right;
+		width: 340px;
+		height: 930px;
+		background: white;
+		border: left;
+		}
+article { background-color: ;
+	float: left;
+		clear: both; 
+		width: 900px;
+		height: 950px;
+	}
+header {  clear: both;
+		 background: white;
+		 color: black;
+		 border: left;
+		 width: 900px;
+		 height: 50px;}
+
+	
+footer { clear: both;
+		 background: white;
+		 color: black;
+		 border: left;
+		 width: 900px;
+		 height: 50px;
+		}
